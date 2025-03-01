@@ -1,0 +1,25 @@
+version control
+
+git -
+
+github account - email, username, password
+
+git--version
+
+git config --global user.email 'onyeije318@gmail.com'
+git config --global user.name 'username'
+
+terminal
+repository (repo) - folder online
+
+git init
+
+git add .
+
+git commit -m "fixing a bug"
+
+git branch -M main
+
+git remote add origin https://github.com/REDLYFE-dev/tech-studio-clone.git
+
+git push -u origin main
