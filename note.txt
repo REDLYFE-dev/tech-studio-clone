@@ -23,3 +23,16 @@ git branch -M main
 git remote add origin https://github.com/REDLYFE-dev/tech-studio-clone.git
 
 git push -u origin main
+
+
+
+
+working on an existing repo
+make chnages
+
+git add.
+
+git commit -m 'changed on homepage'
+
+git push
+
